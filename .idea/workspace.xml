@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c89ba5f-9c70-4975-ac3d-7cb28e53de61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p1/bad/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p1/refactored/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p1/refactored/BookFilePersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p1/refactored/BookPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p1/refactored/BookPersistenceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/bad/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/bad/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/bad/ProgrammerMemoryPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/EmployeeMemoryPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/EmployeePersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/refactored/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/bad/CannotWalkException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/bad/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/bad/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/bad/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/refactored/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/refactored/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/refactored/LandMammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/refactored/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/bad/AdvancedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/bad/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/bad/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/refactored/AdvancedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/refactored/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/refactored/BasicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/refactored/TrigonometricOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/bad/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/bad/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/bad/EmployeeMemoryPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/bad/EmployeePersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/factory/EmployeeMemoryPersistenceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/factory/EmployeeOraclePersistenceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/factory/EmployeePersistenceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/persitence/EmployeeMemoryPersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/persitence/EmployeeOraclePersistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored/persitence/EmployeePersistence.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q7R5U3tvijyI0YoWUF02CLxrlT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ramoncho/Development/projects/Spring/Solid/src/main/java/com/ramon/solid/p5/refactored"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/refactored" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ramon/solid/p5/bad" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ramon/solid/p4/better" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ramon/solid/p3/better" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ramon/solid/p2/better" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ramon.solid.p4.bad" />
+      <recent name="com.ramon.solid.p2.better" />
+      <recent name="com.ramon.solid.p1.better" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c89ba5f-9c70-4975-ac3d-7cb28e53de61" name="Changes" comment="" />
+      <created>1684702449813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684702449813</updated>
+    </task>
+    <servers />
+  </component>
+</project>
